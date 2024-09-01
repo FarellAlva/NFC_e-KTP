@@ -1,4 +1,4 @@
-# ektp_reader_2
+# NFC_e-ktp
 
 this project used integrated NFC with dartvm, using KTP as the subject point
 
