@@ -64,7 +64,8 @@ this project used integrated NFC with dartvm, using KTP as the subject point
     </queries>
 </manifest>
 ```
--make new folder ('xml') in android\app\src\main\res\xml\nfc_tech_filter.xml,  add:
+
+- make new folder ('xml') in android\app\src\main\res\xml\nfc_tech_filter.xml,  add:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
