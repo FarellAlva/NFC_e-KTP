@@ -5,9 +5,9 @@ this project used integrated NFC with dartvm, using KTP as the subject point
 ## Getting Started
 
 - start new project
-- flutter pub upgrade (make sure your flutter up to date)
+- flutter pub upgrade (make sure your flutter -version up to date)
 - Add nfc_manager in your dependecies.yaml
-- update your AndroidManifest.XML,  in order to detect your app's nfc as high priority NFC used hardware
+- update AndroidManifest.XML,  in order to detect your app's nfc as high priority NFC used hardware
 (android\app\src\main\AndroidManifest.xml)
 ```xml
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
