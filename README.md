@@ -2,7 +2,7 @@
 
 this project used integrated NFC with dartvm, using KTP as the subject point
 
-## Getting Started
+## Getting Started :
 
 - start new project
 - flutter pub upgrade (make sure your flutter -version up to date)
