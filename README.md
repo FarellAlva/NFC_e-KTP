@@ -2,6 +2,8 @@
 
 this project used integrated NFC with dartvm, using KTP as the subject point
 
+note: only read KTP serial number, not the data (because it's confindential data)
+
 ## Getting Started :
 
 - start new project
